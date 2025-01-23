@@ -241,5 +241,10 @@ p {
     text-align: center;
     position: relative;
   }
-
+  .copy_right > p,img{
+    margin-right: 1rem;
+    font-size: 14px;
+    margin: 0;
+    line-height: 35px;
+  }
 }
